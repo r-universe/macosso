@@ -5,6 +5,9 @@
 [submodule "csdm"]
 	path = csdm
 	url = https://github.com/macosso/csdm
+[submodule "numops"]
+	path = numops
+	url = https://github.com/macosso/numops
 [submodule "xtsum"]
 	path = xtsum
 	url = https://github.com/macosso/xtsum
